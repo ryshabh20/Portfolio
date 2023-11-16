@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website<br/>
   <a href="https://rishdev.vercel.app/" target="_blank">Rishabh.tech</a>
 </h2>
 
@@ -11,7 +11,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://Rishabh.vercel.app/" target="_blank">Rishabh.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://rishdev.vercel.app/" target="_blank">Rishabh Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
