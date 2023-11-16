@@ -3,8 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import ritours from "../../Assets/Projects/ritours.png";
-import jobster from "../../Assets/Projects/jobster.png";
-import comfysloth from "../../Assets/Projects/comfysloth.png";
+import jobify from "../../Assets/Projects/jobify.png";
+import noblenest from "../../Assets/Projects/noblenest.png";
 
 function Projects() {
   return (
@@ -20,10 +20,10 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={comfysloth}
+              imgPath={noblenest}
               isBlog={false}
-              title="Comfysloth"
-              description="Comfy Sloth is your one-stop destination for stylish furniture shopping. Powered by React, and seamlessly integrated with Auth0 for hassle-free sign-ins, our platform offers a stunning user interface that elevates your online furniture browsing experience. Discover comfort and style like never before with Comfy Sloth."
+              title="NobleNest"
+              description="Noble Nest is your one-stop destination for stylish furniture shopping. Powered by React, and seamlessly integrated with Auth0 for hassle-free sign-ins, our platform offers a stunning user interface that elevates your online furniture browsing experience. Discover comfort and style like never before with Comfy Sloth."
               ghLink="https://github.com/ryshabh20/comfysloth"
               demoLink="https://temp-comfy-sloth.netlify.app/"
             />
@@ -31,10 +31,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={jobster}
+              imgPath={jobify}
               isBlog={false}
-              title="Jobster"
-              description="Jobster is a sleek job application tracker, meticulously developed using Redux Toolkit. It simplifies the job hunt by organizing and monitoring applications with ease. Stay on top of your career journey effortlessly with Jobster."
+              title="Jobify"
+              description="Jobify is a sleek job application tracker that simplifies your job search process, meticulously developed using Redux Toolkit. It simplifies the job hunt by organizing and monitoring applications with ease. Stay on top of your career journey effortlessly with Jobster."
               ghLink="https://github.com/ryshabh20/Jobster"
               demoLink="https://rish-jobster.netlify.app/"
             />
