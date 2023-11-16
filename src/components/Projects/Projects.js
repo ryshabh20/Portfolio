@@ -24,8 +24,8 @@ function Projects() {
               isBlog={false}
               title="NobleNest"
               description="Noble Nest is your one-stop destination for stylish furniture shopping. Powered by React, and seamlessly integrated with Auth0 for hassle-free sign-ins, our platform offers a stunning user interface that elevates your online furniture browsing experience. Discover comfort and style like never before with Comfy Sloth."
-              ghLink="https://github.com/ryshabh20/comfysloth"
-              demoLink="https://temp-comfy-sloth.netlify.app/"
+              ghLink="https://github.com/ryshabh20/noblenest"
+              demoLink="https://noblenest.netlify.app/"
             />
           </Col>
 
@@ -35,8 +35,8 @@ function Projects() {
               isBlog={false}
               title="Jobify"
               description="Jobify is a sleek job application tracker that simplifies your job search process, meticulously developed using Redux Toolkit. It simplifies the job hunt by organizing and monitoring applications with ease. Stay on top of your career journey effortlessly with Jobster."
-              ghLink="https://github.com/ryshabh20/Jobster"
-              demoLink="https://rish-jobster.netlify.app/"
+              ghLink="https://github.com/ryshabh20/Jobify"
+              demoLink="https://rishjobify.netlify.app/"
             />
           </Col>
 
