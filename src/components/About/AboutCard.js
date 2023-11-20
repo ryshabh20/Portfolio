@@ -7,7 +7,7 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "center" }}>
+          <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Rishabh Singh </span>
             from <span className="purple"> Delhi, India.</span>
             <br />I'm your go-to Full Stack Developer, ready to bring your dream product to life in the virtual world. From crafting sleek websites for small and medium-sized businesses to empowering you by building your dream tech product, l've got the skills and expertise to make it happen.
