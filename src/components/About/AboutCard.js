@@ -14,16 +14,8 @@ function AboutCard() {
             ideas into pixel-perfect reality. From front-end magic to back-end
             wizardry
             <br />
-            Apart from coding, some other activities that I love to do!
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
+    
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
