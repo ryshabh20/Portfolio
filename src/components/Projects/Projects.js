@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import ritours from "../../Assets/Projects/ritours.png";
 import jobify from "../../Assets/Projects/jobify.png";
 import noblenest from "../../Assets/Projects/noblenest.png";
+import skyscape from "../../Assets/Projects/skyscape.png";
 
 function Projects() {
   return (
@@ -26,6 +27,16 @@ function Projects() {
               description="Noble Nest is your one-stop destination for stylish furniture shopping. Powered by React, and seamlessly integrated with Auth0 for hassle-free sign-ins, our platform offers a stunning user interface that elevates your online furniture browsing experience. Discover comfort and style like never before with Comfy Sloth."
               ghLink="https://github.com/ryshabh20/noblenest"
               demoLink="https://noblenest.netlify.app/"
+            />
+          </Col>
+                  <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={skyscape}
+              isBlog={false}
+              title="SkyScape"
+              description="Discover your dream property with Skyscape, an innovative real estate platform designed for an immersive and personalized experience. Navigate seamlessly through a diverse range of residential and commercial spaces using our intuitive interface. Explore listings with interactive maps, detailed information, and captivating visuals."
+              ghLink="https://github.com/ryshabh20/SkyScape"
+              demoLink="https://skyscape-seu4.onrender.com/"
             />
           </Col>
 
