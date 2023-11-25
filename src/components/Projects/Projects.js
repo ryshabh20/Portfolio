@@ -24,7 +24,7 @@ function Projects() {
               imgPath={noblenest}
               isBlog={false}
               title="NobleNest"
-              description="Noble Nest is your one-stop destination for stylish furniture shopping. Powered by React, and seamlessly integrated with Auth0 for hassle-free sign-ins, our platform offers a stunning user interface that elevates your online furniture browsing experience. Discover comfort and style like never before with Comfy Sloth."
+              description="Noble Nest is your one-stop destination for stylish furniture shopping. Powered by React, and seamlessly integrated with Auth0 for hassle-free sign-ins, our platform offers a stunning user interface that elevates your online furniture browsing experience. Discover comfort and style like never before with Noble Nest."
               ghLink="https://github.com/ryshabh20/noblenest"
               demoLink="https://noblenest.netlify.app/"
             />
